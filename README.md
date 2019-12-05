@@ -1,3 +1,7 @@
 # Learning-curve
 
-Writeln("hello")
+Begin
+
+Writeln("hello"), 
+
+End
