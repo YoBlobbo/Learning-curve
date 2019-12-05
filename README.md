@@ -1,1 +1,3 @@
 # Learning-curve
+
+Writeln("hello")
