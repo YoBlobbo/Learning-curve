@@ -2,6 +2,7 @@
 
 Begin
 
-Writeln("hello"), 
+Writeln("hello");
+Readln;
 
 End
