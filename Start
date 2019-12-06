@@ -1,4 +1,2 @@
-begin
 writeln("hello");
 readln;
-end
